@@ -43,6 +43,7 @@ Microsoft Copilot：
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Microsoft Copilot
+- Apresentação gerada via Gamma
 
 ## 📚 Materiais
 
